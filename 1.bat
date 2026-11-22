@@ -1,0 +1,2 @@
+cls
+python Color_Name_Generator.py
