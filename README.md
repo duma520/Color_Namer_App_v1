@@ -1,11 +1,8 @@
 # Color_Namer_App_v1 （见源码内 VERSION 常量）
 
-> **一句话**：Color_Namer_App_v1 —— 一个用 Python 写的 Windows 桌面程序，
+> **一句话**：RGB 转中文颜色名：输入 RGB 数值，在颜色库里按 LAB 色彩空间计算距离，给出最接近的中文颜色名与匹配度。写文案、做设计说明、给颜色起名字时，比对着色卡猜要准得多。tkinter 编写，依赖 numpy。
+>
 > 主程序为 `Generate_RGB_Colors - 1.0.py`，界面技术栈 tkinter（Python 自带 GUI，无需额外安装）。
->
-> **适合谁**：想直接用现成工具、不想自己写代码的 Windows 用户。
->
-> **解决什么问题**：把这件事做成开箱即用的程序 —— 下载解压、装上依赖、双击就能跑。
 
 ---
 
